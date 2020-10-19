@@ -3,13 +3,7 @@ body {
   min-height: 100%;
 }
 body {
-  background-image: linear-gradient(
-    to bottom,
-    #ffffff 30%,
-    #88d9ff,
-    #24206c,
-    #222 80%
-  );
+  
   color: #333;
   background-size: 100% 400%;
   background-position: 100% 0%;
