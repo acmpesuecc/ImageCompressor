@@ -12,6 +12,7 @@ body {
     background: rgb(2, 75, 109);
 }
 
+
 /**********Header**********/
 
 .header {
@@ -33,6 +34,10 @@ body {
     bottom: 0;
     top: 0;
 }
+button {
+    background-color: rgb(2, 75, 109) ;
+    color:rgb(red, rgb(8, 235, 8), blue);
+  }
 
 
 /**********Working Area**********/
