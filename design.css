@@ -70,6 +70,7 @@ button {
     right: 0;
     left: 0;
     bottom: 0;
+    cursor: pointer;
 }
 
 .uploader input {
@@ -218,6 +219,7 @@ button {
     padding: 20px;
     height: 60px;
     width: 100%;
+    background: #000;
     margin: auto;
     bottom: 0;
 }
@@ -225,7 +227,7 @@ button {
 .footer img {
     position: absolute;
     margin: auto;
-    height: 50px;
+    height: 40px;
     right: 20px;
     bottom: 0;
     top: 0;
