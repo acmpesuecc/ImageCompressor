@@ -53,3 +53,4 @@ function displayCompressImage(files) {
 document.querySelector(".download-btn").addEventListener("click", () => {
   download(compressedImage);
 });
+
