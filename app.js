@@ -52,5 +52,15 @@ function displayCompressImage(files) {
 
 document.querySelector(".download-btn").addEventListener("click", () => {
   download(compressedImage);
+  flag = download(compressedImage)
+checker(flag)
 });
 
+function checker(flag)
+{
+  if(flag == true)
+  {
+    
+    setTimeout(() => {  alert("downloaded"); }, 2000);
+  }
+}
